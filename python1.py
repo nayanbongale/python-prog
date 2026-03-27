@@ -186,11 +186,11 @@
 # print(fact)
 
 
-mydict={
-   "name":"nayan",
-     "professional":"developer",
-     "empid":1001
- }
+# mydict={
+#    "name":"nayan",
+#      "professional":"developer",
+#      "empid":1001
+#  }
 #  print(mydict)
 
 # mydict={
@@ -234,8 +234,8 @@ mydict={
 
 
 
-newdict=mydict.copy()
-print(newdict)
+# newdict=mydict.copy()
+# print(newdict)
 
 
 
